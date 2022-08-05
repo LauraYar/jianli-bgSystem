@@ -2,7 +2,11 @@
 
 ## Project setup
 ```
-npm install
+npm install需下载的包
+npm i element-ui -S
+npm install --save axios 
+安装富文本：yarn add vue-quill-editor 
+
 ```
 
 ### Compiles and hot-reloads for development
